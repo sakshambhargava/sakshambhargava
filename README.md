@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sakshambhargava" target="blank"><img src="https://img.shields.io/twitter/follow/sakshambhargava?logo=twitter&style=for-the-badge" alt="sakshambhargava" /></a> </p>
 
-- 🔭 I’m currently working on [Ideal Multi Sports Club](https://idealsportsimsc.com/)
+- 🔭 I’m currently working on [Yatralipi](https://yatralipi.com/)
 
 - 👨‍💻 All of my projects are available at [https://sakshambhargava.com/portfolio/](https://sakshambhargava.com/portfolio/)
 
