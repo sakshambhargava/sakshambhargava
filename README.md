@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshambhargava&label=Profile%20views&color=0e75b6&style=flat" alt="sakshambhargava" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sakshambhargava" alt="sakshambhargava" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sakshambhargava" target="blank"><img src="https://img.shields.io/twitter/follow/sakshambhargava?logo=twitter&style=for-the-badge" alt="sakshambhargava" /></a> </p>
 
 - 🔭 I’m currently working on [Yatralipi](https://yatralipi.com/)
@@ -39,3 +37,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakshambhargava&show_icons=true&locale=en" alt="sakshambhargava" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshambhargava&" alt="sakshambhargava" /></p>
+
+<br/>  
+
+<div><img src="https://spotify-github-profile.vercel.app/api/view?uid=21awhixnmxj5hhe6fjz3smany&cover_image=true&theme=default&bar_color_cover=true" /></div>  
+
+<br/>  
