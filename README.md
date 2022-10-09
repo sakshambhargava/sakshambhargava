@@ -39,8 +39,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshambhargava&" alt="sakshambhargava" /></p>
 
 <br/>  
-[![@sakshambhargava's Holopin board](https://holopin.io/api/user/board?user=sakshambhargava)](https://holopin.io/@sakshambhargava)
-<br/>
+
 <div><img src="https://spotify-github-profile.vercel.app/api/view?uid=21awhixnmxj5hhe6fjz3smany&cover_image=true&theme=default&bar_color_cover=true" /></div>  
 
 <br/>  
+
+[![@sakshambhargava's Holopin board](https://holopin.io/api/user/board?user=sakshambhargava)](https://holopin.io/@sakshambhargava)
